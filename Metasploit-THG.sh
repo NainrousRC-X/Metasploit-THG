@@ -5,7 +5,6 @@ lightgreen=`echo -en "\e[92m"`
 purple=`echo -en "\e[35m"`
 BG=`echo -en "\033[1;32m"`
 clear
-#setterm -foreground green
 echo "$BG"
 echo "NainrousRC Ist Mein Führer"
 sleep 0.3
